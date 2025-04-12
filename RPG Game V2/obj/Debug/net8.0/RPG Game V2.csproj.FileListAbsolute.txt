@@ -1,0 +1,15 @@
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\bin\Debug\net8.0\RPG Game V2.exe
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\bin\Debug\net8.0\RPG Game V2.deps.json
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\bin\Debug\net8.0\RPG Game V2.runtimeconfig.json
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\bin\Debug\net8.0\RPG Game V2.dll
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\bin\Debug\net8.0\RPG Game V2.pdb
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.AssemblyInfoInputs.cache
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.AssemblyInfo.cs
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.csproj.CoreCompileInputs.cache
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.sourcelink.json
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.dll
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\refint\RPG Game V2.dll
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.pdb
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\RPG Game V2.genruntimeconfig.cache
+C:\My Stuff\Coding\C#\RPG Game V2\RPG Game V2\obj\Debug\net8.0\ref\RPG Game V2.dll
