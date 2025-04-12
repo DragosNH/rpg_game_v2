@@ -8,7 +8,7 @@ public class Program
 
         // Order for the new character
         // - name - strength - intellect
-        CharClass war = new CharClass(5,5);
+        CharClass war = new CharClass();
         Character sam = new Character("Sam", war,20, 5);
 
         Console.WriteLine(sam);

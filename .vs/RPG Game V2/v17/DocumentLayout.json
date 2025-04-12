@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|c:\\my stuff\\coding\\c#\\rpg game v2\\rpg game v2\\classes\\charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|solutionrelative:rpg game v2\\classes\\charclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|c:\\my stuff\\coding\\c#\\rpg game v2\\rpg game v2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|solutionrelative:rpg game v2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|c:\\my stuff\\coding\\c#\\rpg game v2\\rpg game v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|solutionrelative:rpg game v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|c:\\my stuff\\coding\\c#\\rpg game v2\\rpg game v2\\classes\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6E5E63-F455-43D5-B48F-814D58703DB1}|RPG Game V2\\RPG Game V2.csproj|solutionrelative:rpg game v2\\classes\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CharClass.cs",
-              "DocumentMoniker": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Classes\\CharClass.cs",
-              "RelativeDocumentMoniker": "RPG Game V2\\Classes\\CharClass.cs",
-              "ToolTip": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Classes\\CharClass.cs",
-              "RelativeToolTip": "RPG Game V2\\Classes\\CharClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:53:00.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClassType.cs",
-              "DocumentMoniker": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Classes\\ClassType.cs",
-              "RelativeDocumentMoniker": "RPG Game V2\\Classes\\ClassType.cs",
-              "ToolTip": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Classes\\ClassType.cs",
-              "RelativeToolTip": "RPG Game V2\\Classes\\ClassType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:51:39.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Character.cs",
               "RelativeDocumentMoniker": "RPG Game V2\\Character.cs",
               "ToolTip": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Character.cs",
               "RelativeToolTip": "RPG Game V2\\Character.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T08:45:29.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Program.cs",
               "RelativeDocumentMoniker": "RPG Game V2\\Program.cs",
               "ToolTip": "C:\\My Stuff\\Coding\\C#\\RPG Game V2\\RPG Game V2\\Program.cs",
               "RelativeToolTip": "RPG Game V2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T08:42:19.659Z",
               "EditorCaption": ""
